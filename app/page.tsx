@@ -4,7 +4,6 @@ import React from "react";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Footer from "@/components/Footer";
-import Link from "next/link";
 import { motion } from "framer-motion";
 import { Heart, Sparkle, Target, Users } from "@phosphor-icons/react";
 
@@ -91,7 +90,7 @@ export default function Home() {
                 <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover" alt="Wellness" />
              </div>
              <div className="bg-primary p-10 rounded-[2.5rem] text-surface flex flex-col justify-end">
-                <p className="text-3xl font-display font-bold leading-tight mb-4">"A nutrição deve ser leve como a brisa da Vila Madalena."</p>
+                <p className="text-3xl font-display font-bold leading-tight mb-4">&quot;A nutrição deve ser leve como a brisa da Vila Madalena.&quot;</p>
                 <p className="text-sm opacity-60 font-medium">— Sua Nutri</p>
              </div>
           </div>

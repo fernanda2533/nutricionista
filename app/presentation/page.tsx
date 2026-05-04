@@ -1,16 +1,15 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { motion, useAnimation } from "framer-motion";
+import { motion } from "framer-motion";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Footer from "@/components/Footer";
 import Link from "next/link";
-import { CheckCircle, WhatsappLogo, Envelope, MapPin } from "@phosphor-icons/react";
+import { CheckCircle } from "@phosphor-icons/react";
 
 export default function PresentationPage() {
   const [step, setStep] = useState(0);
-  const controls = useAnimation();
 
   // Sequence of the "Tour"
   useEffect(() => {
@@ -78,7 +77,7 @@ export default function PresentationPage() {
                {[1, 2, 3].map((i) => (
                   <div key={i} className="p-10 rounded-[3rem] bg-white border border-slate-100 shadow-sm">
                      <div className="w-12 h-12 rounded-full bg-slate-200 mb-6" />
-                     <p className="text-lg text-foreground/70 italic">"Este site é um exemplo de como a nutrição pode ser apresentada de forma elegante."</p>
+                     <p className="text-lg text-foreground/70 italic">&quot;Este site é um exemplo de como a nutrição pode ser apresentada de forma elegante.&quot;</p>
                      <p className="mt-6 font-bold">Paciente Exemplo</p>
                   </div>
                ))}

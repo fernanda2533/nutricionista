@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { motion, AnimatePresence } from "framer-motion";
-import { Envelope, Phone, MapPin, WhatsappLogo, CheckCircle } from "@phosphor-icons/react";
+import { Envelope, MapPin, WhatsappLogo, CheckCircle } from "@phosphor-icons/react";
 
 export default function ContactPage() {
   const [isSubmitted, setIsSubmitted] = useState(false);

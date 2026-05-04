@@ -96,9 +96,9 @@ export default function HowItWorks() {
                   <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=1000" className="w-full h-full object-cover" alt="Methodology" />
                </div>
                <div className="w-full md:w-1/2">
-                  <h2 className="text-3xl font-display font-bold mb-6 italic">"A ciência diz o que comer, a nutrição humanizada ensina como viver."</h2>
+                  <h2 className="text-3xl font-display font-bold mb-6 italic">&quot;A ciência diz o que comer, a nutrição humanizada ensina como viver.&quot;</h2>
                   <p className="text-foreground/60 leading-relaxed">
-                     Trabalho com as técnicas mais modernas de Nutrição Comportamental para que você não precise de uma nova "dieta" nunca mais.
+                     Trabalho com as técnicas mais modernas de Nutrição Comportamental para que você não precise de uma nova &quot;dieta&quot; nunca mais.
                   </p>
                </div>
             </motion.div>
