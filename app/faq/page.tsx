@@ -12,8 +12,8 @@ const faqs = [
     answer: "É uma abordagem que remove o peso emocional de 'certo ou errado' dos alimentos. Focamos em comer com consciência, prazer e equilíbrio, entendendo que nenhum alimento sozinho é capaz de arruinar sua saúde.",
   },
   {
-    question: "Como funciona o atendimento na Vila Madalena?",
-    answer: "Meu consultório fica em uma rua tranquila da Vila Madalena, projetado para ser um espaço de calma. O atendimento dura cerca de 1h30 e inclui avaliação física, conversa profunda e entrega de um plano inicial.",
+    question: "Como funciona o atendimento presencial?",
+    answer: "Meu consultório é projetado para ser um espaço de calma e acolhimento. O atendimento dura cerca de 1h30 e inclui avaliação física, conversa profunda e entrega de um plano inicial.",
   },
   {
     question: "Vocês atendem online?",
@@ -25,7 +25,7 @@ const faqs = [
   },
   {
     question: "Vou receber um cardápio fixo?",
-    answer: "Você receberá um guia alimentar flexível. Mais do que dizer 'coma isso às 8h', eu te ensino a fazer escolhas inteligentes em qualquer situação — seja em casa, no trabalho ou em um jantar na Vila.",
+    answer: "Você receberá um guia alimentar flexível. Mais do que dizer 'coma isso às 8h', eu te ensino a fazer escolhas inteligentes em qualquer situação — seja em casa, no trabalho ou em um evento social.",
   },
 ];
 

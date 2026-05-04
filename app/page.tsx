@@ -15,8 +15,8 @@ const features = [
   },
   {
     icon: Sparkle,
-    title: "Vila Madalena",
-    description: "Um ambiente acolhedor e artístico no coração de São Paulo.",
+    title: "Conforto e Acolhimento",
+    description: "Um ambiente desenhado para ser seu refúgio e promover bem-estar.",
   },
   {
     icon: Target,
@@ -67,7 +67,7 @@ export default function Home() {
               <span className="text-primary italic font-normal">nutrir</span> sua vida.
             </h2>
             <p className="text-foreground/60 mb-8 leading-relaxed">
-              Moro na Vila Madalena há 10 anos e entendo a rotina pulsante de São Paulo. Meu consultório foi desenhado para ser um refúgio, onde a alimentação é vista como aliada, não como inimiga.
+              Entendo os desafios da rotina moderna e como ela impacta nossas escolhas. Meu consultório foi desenhado para ser um refúgio, onde a alimentação é vista como aliada, não como inimiga.
             </p>
             <div className="space-y-4">
               <div className="flex items-center gap-3">
@@ -87,10 +87,10 @@ export default function Home() {
           
           <div className="lg:col-span-7 grid grid-cols-1 md:grid-cols-2 gap-6">
              <div className="rounded-[2.5rem] overflow-hidden aspect-square md:aspect-auto h-full shadow-2xl">
-                <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover" alt="Wellness" />
+                <img src="/images/about-nutrition.png" className="w-full h-full object-cover" alt="Consultoria Nutricional" />
              </div>
              <div className="bg-primary p-10 rounded-[2.5rem] text-surface flex flex-col justify-end">
-                <p className="text-3xl font-display font-bold leading-tight mb-4">&quot;A nutrição deve ser leve como a brisa da Vila Madalena.&quot;</p>
+                <p className="text-3xl font-display font-bold leading-tight mb-4">&quot;Comer deve ser um ato de prazer e nutrição, nunca de culpa.&quot;</p>
                 <p className="text-sm opacity-60 font-medium">— Sua Nutri</p>
              </div>
           </div>
@@ -128,7 +128,7 @@ export default function Home() {
               {
                 name: "Ricardo M.",
                 role: "Paciente há 1 ano",
-                text: "O acompanhamento na Vila Madalena é um refúgio. A abordagem humanizada faz toda a diferença no processo.",
+                text: "O acompanhamento personalizado é um refúgio. A abordagem humanizada faz toda a diferença no processo.",
                 image: "https://picsum.photos/seed/p2/100/100"
               },
               {

@@ -22,7 +22,7 @@ export default function Footer() {
           <Link href="/termos" className="hover:text-primary transition-colors">Termos</Link>
         </div>
         <div className="text-sm text-foreground/30 font-medium">
-          © 2024 Lumina Nutrição. Vila Madalena, SP.
+          © 2024 Lumina Nutrição. Atendimento Presencial e Online.
         </div>
       </div>
     </footer>

@@ -67,8 +67,8 @@ export default function ContactPage() {
                 <div>
                   <p className="text-sm font-bold uppercase tracking-widest text-primary/60 mb-1">Consultório</p>
                   <p className="text-xl font-display font-bold">
-                    Rua Harmonia, Vila Madalena <br />
-                    São Paulo — SP
+                    Atendimento Online & <br />
+                    Presencial em São Paulo
                   </p>
                 </div>
               </div>
@@ -76,7 +76,7 @@ export default function ContactPage() {
 
             {/* Micro-map placeholder */}
             <div className="mt-12 rounded-[2.5rem] overflow-hidden aspect-video bg-secondary/30 relative border border-slate-100">
-               <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover grayscale opacity-50" alt="Vila Madalena" />
+               <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover grayscale opacity-50" alt="Consultório" />
                <div className="absolute inset-0 flex items-center justify-center">
                   <div className="px-6 py-3 glass rounded-full font-bold text-sm">Ver no Google Maps</div>
                </div>

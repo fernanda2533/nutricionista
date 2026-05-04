@@ -16,8 +16,8 @@ const services = [
   },
   {
     icon: House,
-    title: "Home Care Vila Madalena",
-    description: "Levamos a consultoria até o conforto da sua casa no bairro, avaliando sua despensa e rotina real.",
+    title: "Home Care & Online",
+    description: "Levamos a consultoria até o conforto da sua casa ou via atendimento online, avaliando sua rotina real.",
     duration: "2 horas",
     price: "Personalizado",
   },

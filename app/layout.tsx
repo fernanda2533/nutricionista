@@ -13,8 +13,8 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Nutricionista em Vila Madalena | Alimentação Sem Culpa",
-  description: "Consultoria nutricional focada em saúde, bem-estar e alimentação sem culpa na Vila Madalena, São Paulo.",
+  title: "Nutricionista | Alimentação Sem Culpa",
+  description: "Consultoria nutricional focada em saúde, bem-estar e alimentação sem culpa. Atendimento em São Paulo e online.",
 };
 
 export default function RootLayout({

@@ -15,7 +15,7 @@ const steps = [
   {
     icon: ClipboardText,
     title: "2. Diagnóstico & Plano",
-    description: "Análise de exames e criação de uma estratégia nutricional flexível que se adapta à sua vida na Vila Madalena.",
+    description: "Análise de exames e criação de uma estratégia nutricional flexível que se adapta à sua rotina e objetivos.",
   },
   {
     icon: CookingPot,

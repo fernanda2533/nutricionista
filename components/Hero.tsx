@@ -23,7 +23,7 @@ export default function Hero() {
           >
             <Leaf weight="fill" size={18} />
             <span className="text-xs font-bold uppercase tracking-widest">
-              Nutrição na Vila Madalena, SP
+              Nutrição e Bem-estar
             </span>
           </motion.div>
 
@@ -83,7 +83,7 @@ export default function Hero() {
               ))}
             </div>
             <p className="text-sm text-foreground/40 font-medium">
-              +200 vidas transformadas na Vila Madalena
+              +200 vidas transformadas através da nutrição humanizada
             </p>
           </motion.div>
         </div>
@@ -103,8 +103,8 @@ export default function Hero() {
             />
             {/* Overlay tag */}
             <div className="absolute bottom-6 left-6 right-6 p-4 glass rounded-2xl">
-              <p className="text-sm font-bold text-foreground">📍 Vila Madalena, São Paulo</p>
-              <p className="text-xs text-foreground/60">Atendimento presencial e online</p>
+              <p className="text-sm font-bold text-foreground">📍 Atendimento Personalizado</p>
+              <p className="text-xs text-foreground/60">Presencial e online</p>
             </div>
           </motion.div>
 
