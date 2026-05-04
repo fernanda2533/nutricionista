@@ -1,0 +1,20 @@
+# Cursor Rules for Nutricionista Project
+
+This project uses the **Taste Skill** design system to ensure high-end, premium UI/UX.
+
+## Active Skill: Taste Skill
+All code generation and design decisions MUST adhere to the rules defined in:
+[SKILL.md](file:///Users/fernandavitoria/Documents/WebSite/Nutricionista/skills/taste-skill/SKILL.md)
+
+### Key Directives
+- **Anti-Slop:** Avoid generic AI patterns (Inter font, 3-column cards, purple glows).
+- **Typography:** Use premium fonts like Geist, Outfit, or Satoshi.
+- **Motion:** Use Framer Motion with spring physics for all interactions.
+- **Layout:** Embrace asymmetry and generous spacing.
+- **Materiality:** Use 1px inner borders and subtle shadows for depth.
+- **RSC Safety:** Isolate interactive components with 'use client'.
+
+### Baseline Configuration
+- DESIGN_VARIANCE: 8
+- MOTION_INTENSITY: 6
+- VISUAL_DENSITY: 4
